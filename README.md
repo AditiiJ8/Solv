@@ -17,6 +17,9 @@ Raise a concern in your own language. Get a ticket by email. Track it until it i
 ---
 
 ## Overview
+<img width="1346" height="637" alt="Screenshot 2026-11-03 234325" src="https://github.com/user-attachments/assets/04373abe-8ee0-4743-a903-53a7f5f8b28c" />
+<img width="1346" height="635" alt="Screenshot 2026-11-03 234448" src="https://github.com/user-attachments/assets/ec02b153-46b8-4fe0-bc67-fa1420f5645c" />
+
 
 Students, staff and parents often hesitate to raise grievances because the process is unclear, slow, or only available in English. **Solv** removes those barriers. It is a conversational assistant that listens in the user's own language, collects the details of a complaint step by step, registers it as a numbered ticket, emails a confirmation, and lets the user check progress at any time. Staff manage everything from a simple dashboard.
 
