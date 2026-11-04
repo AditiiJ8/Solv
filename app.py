@@ -97,7 +97,7 @@ def groq(msgs):
     return r.json()["choices"][0]["message"]
 
 @app.get("/")
-def index(): return send_from_directory("static", "index.html")
+def index(): return send_from_directory(".", "index.html")
 
 @app.get("/api/config")
 def config(): return jsonify(college=COLLEGE)
